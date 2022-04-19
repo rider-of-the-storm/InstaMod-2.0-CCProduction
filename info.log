@@ -1,0 +1,1135 @@
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+WARNING:root:User is None
+Comment ID: hzdn45o
+INFO:root:Queue size: 0
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from ChemicalGreek
+INFO:root:Queue size: 0
+INFO:root:Perm Queue size: 0
+INFO:root:Processing comment from ChemicalGreek
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: ChemicalGreek
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Altruistic-Pipe-2761
+INFO:root:Queue size: 0
+INFO:root:Perm Queue size: 0
+INFO:root:Processing comment from Altruistic-Pipe-2761
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: Altruistic-Pipe-2761
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Magners17
+INFO:root:Queue size: 0
+INFO:root:Perm Queue size: 0
+INFO:root:Processing comment from Magners17
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: Magners17
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Jxntb733
+INFO:root:Queue size: 0
+INFO:root:Perm Queue size: 0
+INFO:root:Processing comment from Jxntb733
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: Jxntb733
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from UnaCabeza
+INFO:root:Queue size: 0
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Magners17
+INFO:root:Queue size: 1
+INFO:root:Perm Queue size: 0
+INFO:root:Processing comment from UnaCabeza
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: UnaCabeza
+	Update flair: True
+	Scrape data: True
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Collecting data...
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from greyenlightenment
+INFO:root:Queue size: 2
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 3
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Vegetable-Isopod9659
+INFO:root:Queue size: 4
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from M-Tyson
+INFO:root:Queue size: 5
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Comment added to queue from jimtors100
+INFO:root:Queue size: 6
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Fuugedaboutit
+INFO:root:Queue size: 7
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Crypto-Pito
+INFO:root:Queue size: 8
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from johnsonnewman
+INFO:root:Queue size: 9
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Jxntb733
+INFO:root:Queue size: 10
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Business-Typical
+INFO:root:Queue size: 11
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from jewbagel10
+INFO:root:Queue size: 12
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from HOLYREGIME
+INFO:root:Queue size: 13
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Vegetable-Isopod9659
+INFO:root:Queue size: 14
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from SaltyBaoBaos
+INFO:root:Queue size: 15
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Hunter-Western
+INFO:root:Queue size: 16
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Tailgatingtradie
+INFO:root:Queue size: 17
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Part-Select
+INFO:root:Queue size: 18
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Lurkawayzzz
+INFO:root:Queue size: 19
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from RumPepsi
+INFO:root:Queue size: 20
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from kindoflikesnowing
+INFO:root:Queue size: 21
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 22
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from nsaplzstahp
+INFO:root:Queue size: 23
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from chrashyeah
+INFO:root:Queue size: 24
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from tipmeyourBAT
+INFO:root:Queue size: 25
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from SkywordBound
+INFO:root:Queue size: 26
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from UnaCabeza
+INFO:root:Queue size: 27
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Beagleoverlord33
+INFO:root:Queue size: 28
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Comment added to queue from bouncepogo
+INFO:root:Queue size: 29
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from fourbian
+INFO:root:Queue size: 30
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from tasafak
+INFO:root:Queue size: 31
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 32
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from NXCW
+INFO:root:Queue size: 33
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Zavage3
+INFO:root:Queue size: 34
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 35
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 36
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from redlab11
+INFO:root:Queue size: 37
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from 2dollasoda
+INFO:root:Queue size: 38
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from EmptyCheesecake7232
+INFO:root:Queue size: 39
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from beardedsalad
+INFO:root:Queue size: 40
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 41
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from tasafak
+INFO:root:Queue size: 42
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from muawiyayounus90
+INFO:root:Queue size: 43
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 44
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from sbd1979
+INFO:root:Queue size: 45
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Floating0821
+INFO:root:Queue size: 46
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 47
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from jewbagel10
+INFO:root:Queue size: 48
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Comment added to queue from Hawaii96795
+INFO:root:Queue size: 49
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from seventy_8
+INFO:root:Queue size: 50
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from ziggymeoww
+INFO:root:Queue size: 51
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from CrowdGoesWildWoooo
+INFO:root:Queue size: 52
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from meyerson494
+INFO:root:Queue size: 53
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from lunargrover
+INFO:root:Queue size: 54
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from lia_ness
+INFO:root:Queue size: 55
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from pilotdave85
+INFO:root:Queue size: 56
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Cantstandyuh
+INFO:root:Queue size: 57
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Comment added to queue from Administrative-War49
+INFO:root:Queue size: 58
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from redlab11
+INFO:root:Queue size: 59
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from PacoBedejo
+INFO:root:Queue size: 60
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Altruistic-Pipe-2761
+INFO:root:Queue size: 61
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Dreampopgazer
+INFO:root:Queue size: 62
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Administrative-War49
+INFO:root:Queue size: 63
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from BrokenParachutes
+INFO:root:Queue size: 64
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Hiteshew
+INFO:root:Queue size: 65
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from ImPickleRickBytch
+INFO:root:Queue size: 66
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Difficult_Ixem_324
+INFO:root:Queue size: 67
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from careverga420
+INFO:root:Queue size: 68
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Crypto-Pito
+INFO:root:Queue size: 69
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Vegetable-Isopod9659
+INFO:root:Queue size: 70
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Shaz170
+INFO:root:Queue size: 71
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from riddled_with_errors
+INFO:root:Queue size: 72
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Evan5893
+INFO:root:Queue size: 73
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from _Stealthy
+INFO:root:Queue size: 74
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from YasuotheChosenOne
+INFO:root:Queue size: 75
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Comment added to queue from vladWEPES1476
+INFO:root:Queue size: 76
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from hobby_master_
+INFO:root:Queue size: 77
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 78
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from AutoModerator
+INFO:root:Queue size: 79
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 80
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from AirSpaceGround
+INFO:root:Queue size: 81
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Administrative-War49
+INFO:root:Queue size: 82
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from MegaBlastoise23
+INFO:root:Queue size: 83
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Elie0_0
+INFO:root:Queue size: 84
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from 110tony110
+INFO:root:Queue size: 85
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Rtbrosk
+INFO:root:Queue size: 86
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from AnalogueWaves
+INFO:root:Queue size: 87
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Comment added to queue from TruthSeeekeer
+INFO:root:Queue size: 88
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from johax84
+INFO:root:Queue size: 89
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from phantom_fanatic
+INFO:root:Queue size: 90
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Vegetable-Isopod9659
+INFO:root:Queue size: 91
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Magners17
+INFO:root:Queue size: 92
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Tanagashi
+INFO:root:Queue size: 93
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from rsicher1
+INFO:root:Queue size: 94
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from TruthSeeekeer
+INFO:root:Queue size: 95
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from WorldTraveller19
+INFO:root:Queue size: 96
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from SmallReflection2552
+INFO:root:Queue size: 97
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 98
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from SpongeKake
+INFO:root:Queue size: 99
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from BrokenParachutes
+INFO:root:Queue size: 100
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Lewis_0683
+INFO:root:Queue size: 101
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from N4Y4R
+INFO:root:Queue size: 102
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from MegaBlastoise23
+INFO:root:Queue size: 103
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from YesBeSeeNoTo
+INFO:root:Queue size: 104
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from rsicher1
+INFO:root:Queue size: 105
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from domotor2
+INFO:root:Queue size: 106
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from DIBE25
+INFO:root:Queue size: 107
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 108
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=UnaCabeza&after=1644539545&before=1645829485&limit=1000&metadata=true&sort=desc
+WARNING:root:
+Error in DataCollector for: {str(user)}
+<class 'Exception'>
+
+WARNING:root:
+Error in FlairManager for: {str(user)}
+Traceback (most recent call last):
+  File "/home/pi/InstaMod-2.0/ProcessComment.py", line 86, in fetch_queue
+    user, target_sub, sub_list, ps)
+  File "/home/pi/InstaMod-2.0/DataCollector.py", line 114, in load_data
+    for ps_comment in comment_results:
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 374, in _praw_search
+    for batch in gen:
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 238, in _search
+    for response in self._handle_paging(url):
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 215, in _handle_paging
+    data = self._get(url, self.payload)
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 194, in _get
+    raise Exception("Unable to connect to pushshift.io. Max retries exceeded.")
+Exception: Unable to connect to pushshift.io. Max retries exceeded.
+
+
+INFO:root:Found a PM
+INFO:root:Processing comment from Magners17
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Comment added to queue from anon43850
+INFO:root:Queue size: 108
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from funkidredd
+INFO:root:Queue size: 109
+INFO:root:Perm Queue size: 0
+INFO:root:Check User: Magners17
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Processing comment from greyenlightenment
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: greyenlightenment
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+WARNING:root:User is None
+Comment ID: hzdn8sn
+INFO:root:Found a PM
+INFO:root:Processing comment from Vegetable-Isopod9659
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Comment added to queue from Magners17
+INFO:root:Queue size: 107
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Lewis_0683
+INFO:root:Queue size: 108
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from fuzzytradr
+INFO:root:Queue size: 109
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from TheCentralFlame
+INFO:root:Queue size: 110
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from chadathin
+INFO:root:Queue size: 111
+INFO:root:Perm Queue size: 0
+INFO:root:Check User: Vegetable-Isopod9659
+	Update flair: False
+	Scrape data: False
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Processing comment from M-Tyson
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Check User: M-Tyson
+	Update flair: False
+	Scrape data: True
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Collecting data...
+INFO:root:Found a PM
+INFO:root:Comment added to queue from Coopa228
+INFO:root:Queue size: 111
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from chujia
+INFO:root:Queue size: 112
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Macca1014
+INFO:root:Queue size: 113
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Elie0_0
+INFO:root:Queue size: 114
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from AfterPatience245
+INFO:root:Queue size: 115
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from SoftPenguins
+INFO:root:Queue size: 116
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Comment added to queue from mysterioususer69
+INFO:root:Queue size: 117
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from jewbagel10
+INFO:root:Queue size: 118
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 119
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from 26oclock
+INFO:root:Queue size: 120
+INFO:root:Perm Queue size: 0
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Comment added to queue from BigStonkHunting
+INFO:root:Queue size: 121
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from None
+INFO:root:Queue size: 122
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Comment added to queue from selphfourgiveness
+INFO:root:Queue size: 123
+INFO:root:Perm Queue size: 0
+INFO:root:Comment added to queue from Tritador
+INFO:root:Queue size: 124
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Comment added to queue from ccModBot
+INFO:root:Queue size: 125
+INFO:root:Perm Queue size: 0
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=M-Tyson&after=1644771187&before=1645829891&limit=1000&metadata=true&sort=desc
+WARNING:root:
+Error in DataCollector for: {str(user)}
+<class 'Exception'>
+
+WARNING:root:
+Error in FlairManager for: {str(user)}
+Traceback (most recent call last):
+  File "/home/pi/InstaMod-2.0/ProcessComment.py", line 86, in fetch_queue
+    user, target_sub, sub_list, ps)
+  File "/home/pi/InstaMod-2.0/DataCollector.py", line 114, in load_data
+    for ps_comment in comment_results:
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 374, in _praw_search
+    for batch in gen:
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 238, in _search
+    for response in self._handle_paging(url):
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 215, in _handle_paging
+    data = self._get(url, self.payload)
+  File "/home/pi/.local/lib/python3.7/site-packages/psaw/PushshiftAPI.py", line 194, in _get
+    raise Exception("Unable to connect to pushshift.io. Max retries exceeded.")
+Exception: Unable to connect to pushshift.io. Max retries exceeded.
+
+
+INFO:root:Processing comment from jimtors100
+INFO:root:Target sub found: cryptocurrency
+INFO:root:Found a PM
+INFO:root:Comment added to queue from InvoluntaryEraser
+INFO:root:Queue size: 125
+INFO:root:Perm Queue size: 0
+INFO:root:Check User: jimtors100
+	Update flair: True
+	Scrape data: True
+	In accnt_info: True
+	In sub_info: True
+INFO:root:Collecting data...
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:psaw.PushshiftAPI:https://api.pushshift.io/reddit/comment/search?filter=id&filter=created_utc&author=jimtors100&after=1643602525&before=1645830286&limit=1000&metadata=true&sort=desc
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM
+INFO:root:Found a PM

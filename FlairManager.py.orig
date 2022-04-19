@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import time
 import logging
 
@@ -84,6 +82,7 @@ def update_flair(flair_queue, perm_queue, user, sub, prog_flair_enabled,
         logging.info("User granted css permissions")
         sub.db.update_key_sub_info(username, "flair perm", int(css_perm))
         perm_queue.put([username, "css perm", sub])
+
 
 # Main method for new account flair
 def make_new_accnt_flair(username, sub):

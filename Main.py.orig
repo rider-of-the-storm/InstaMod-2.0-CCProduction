@@ -199,8 +199,8 @@ def notify_permission_change():
                             "flair, please click on [this pre-formatted link.](https://www.reddit.com/message/" \
                             "compose?to=" + praw_config["Bot Info"]["bot_owner"] + "&subject=!" + str(target_sub.sub) + "%20!flair" \
                             "&message=Flair%20Text:%0AFlair%20CSS:)" \
-                            "\n\n**Note:** This can be used to change your flair as many times as you like." \
-                            " Emojis are not allowed and your submissions will be filtered if used.\n\n"
+                            "\n\n**Note:** This link will not work on mobile and can be used to change your flair" \
+                            " as many times as you want.\n\n"
 
             # Concatenate message body with custom text from subreddit settings
             body = auto_perm_msg + target_sub.pm_messages["custom flair body"] + message_footer
@@ -296,7 +296,7 @@ while True:
                 continue
 
             # Assign all flair if 100 or more are pending
-            if flair_queue.qsize() >= 10 or comment_queue.qsize() >= 125:
+            if flair_queue.qsize() >= 10 or comment_queue.qsize() >= 50:
                 run_idle_tasks(last_config_check)
                 flair_users()
                 notify_permission_change()

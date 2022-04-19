@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 import logging
 import time
@@ -39,7 +41,7 @@ def fetch_queue(comment_queue, flair_queue, perm_queue, sub_list):
                 logging.warning("User is None\n"
                                 "Comment ID: " + comment.id)
             except prawcore.exceptions.NotFound:
-                logging.critical(f"User is None and Comment ID is inaccessible")
+                logging.critical("User is None and Comment ID is inaccessible")
             continue
 
         try:
@@ -83,9 +85,9 @@ def fetch_queue(comment_queue, flair_queue, perm_queue, sub_list):
                 DataCollector.load_data(user_in_accnt_info, user_in_sub_info, update_flair,
                                         user, target_sub, sub_list, ps)
             except:
-                logging.warning(f"\nError in DataCollector for: {str(user)}\n" + str(sys.exc_info()[0]) + "\n")
+                logging.warning("\nError in DataCollector for: {str(user)}\n" + str(sys.exc_info()[0]) + "\n")
                 tb = traceback.format_exc()
-                logging.warning(f"\nError in FlairManager for: {str(user)}\n" + str(tb) + "\n")
+                logging.warning("\nError in FlairManager for: {str(user)}\n" + str(tb) + "\n")
                 r.redditor(praw_config["Bot Info"]["bot_owner"]).message("InstaMod Error for " + str(user),
                                                                          "DataCollector Stacktrace: \n\n" + tb)
                 continue
@@ -100,13 +102,11 @@ def fetch_queue(comment_queue, flair_queue, perm_queue, sub_list):
             if prog_flair_enabled or new_accnt_flair_enabled or activity_flair_enabled:
                 logging.info("Updating flair...")
                 try:
-                    FlairManager.update_flair(flair_queue, perm_queue, comment.author, target_sub,
-                                              prog_flair_enabled, new_accnt_flair_enabled, activity_flair_enabled)
+                    FlairManager.update_flair(flair_queue, perm_queue, comment.author, target_sub, prog_flair_enabled, new_accnt_flair_enabled, activity_flair_enabled)
                 except:
                     tb = traceback.format_exc()
-                    logging.warning(f"\nError in FlairManager for: {str(user)}\n" + str(tb) + "\n")
-                    r.redditor(praw_config["Bot Info"]["bot_owner"]).message("InstaMod Error for " + str(user),
-                                                                             "FlairManager Stacktrace: \n\n" + tb)
+                    logging.warning("\nError in FlairManager for: {str(user)}\n" + str(tb) + "\n")
+                    r.redditor(praw_config["Bot Info"]["bot_owner"]).message("InstaMod Error for " + str(user), "FlairManager Stacktrace: \n\n" + tb)
                     continue
             else:
                 logging.debug("All flair settings disabled")
